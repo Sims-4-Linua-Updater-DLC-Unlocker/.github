@@ -11,7 +11,7 @@ The tool automates game folder detection, downloading, extraction, and validatio
 ## 🔗 Latest Release of Linua Updater
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Sims-4-Linua-Updater-DLC-Unlocker/.github/releases/)
 
 ---
 
